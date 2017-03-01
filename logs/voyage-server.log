@@ -1,0 +1,44 @@
+2017/03/01 12:23:49  com.lenzhao.framework.server.ExtensionLoader.main(:39) INFO init root path: null 
+2017/03/01 12:23:49  com.lenzhao.framework.server.ExtensionLoader.main(:65) INFO begin scan jar from path: null 
+2017/03/01 12:23:49  com.lenzhao.framework.server.ExtensionLoader.main(:119) INFO finish scan jar 
+2017/03/01 12:23:49  com.lenzhao.framework.server.RpcServerBootstrap.main(:45) INFO initHttpBootstrap........... 
+2017/03/01 12:24:35  com.lenzhao.framework.server.ExtensionLoader.main(:39) INFO init root path: null 
+2017/03/01 12:24:35  com.lenzhao.framework.server.ExtensionLoader.main(:65) INFO begin scan jar from path: null 
+2017/03/01 12:24:35  com.lenzhao.framework.server.ExtensionLoader.main(:119) INFO finish scan jar 
+2017/03/01 12:24:35  com.lenzhao.framework.server.RpcServerBootstrap.main(:45) INFO initHttpBootstrap........... 
+2017/03/01 12:24:35  com.lenzhao.framework.server.RpcServerBootstrap.main(:79) INFO voyage server started 
+2017/03/01 13:16:54  com.lenzhao.framework.server.ExtensionLoader.main(:39) INFO init root path: null 
+2017/03/01 13:16:54  com.lenzhao.framework.server.ExtensionLoader.main(:65) INFO begin scan jar from path: null 
+2017/03/01 13:16:54  com.lenzhao.framework.server.ExtensionLoader.main(:119) INFO finish scan jar 
+2017/03/01 13:16:54  com.lenzhao.framework.server.RpcServerBootstrap.main(:45) INFO initHttpBootstrap........... 
+2017/03/01 13:16:55  com.lenzhao.framework.server.RpcServerBootstrap.main(:79) INFO voyage server started 
+2017/03/01 14:37:21  com.lenzhao.framework.server.ExtensionLoader.main(:39) INFO init root path: null 
+2017/03/01 14:37:21  com.lenzhao.framework.server.ExtensionLoader.main(:65) INFO begin scan jar from path: null 
+2017/03/01 14:37:21  com.lenzhao.framework.server.ExtensionLoader.main(:119) INFO finish scan jar 
+2017/03/01 14:37:21  com.lenzhao.framework.server.RpcServerBootstrap.main(:45) INFO initHttpBootstrap........... 
+2017/03/01 14:37:21  com.lenzhao.framework.server.RpcServerBootstrap.main(:79) INFO voyage server started 
+2017/03/01 14:37:39  com.lenzhao.service.impl.UserServiceImpl.New I/O worker #3(:18) INFO userName: lenzhao 登录成功! 
+2017/03/01 14:38:32  com.lenzhao.service.impl.UserServiceImpl.New I/O worker #4(:18) INFO userName: lenzhao 登录成功! 
+2017/03/01 14:38:38  com.lenzhao.service.impl.UserServiceImpl.New I/O worker #5(:18) INFO userName: lenzhao 登录成功! 
+2017/03/01 14:48:05  com.lenzhao.framework.server.ExtensionLoader.main(:39) INFO init root path: null 
+2017/03/01 14:48:05  com.lenzhao.framework.server.ExtensionLoader.main(:65) INFO begin scan jar from path: null 
+2017/03/01 14:48:05  com.lenzhao.framework.server.ExtensionLoader.main(:119) INFO finish scan jar 
+2017/03/01 14:48:05  com.lenzhao.framework.server.RpcServerBootstrap.main(:45) INFO initHttpBootstrap........... 
+2017/03/01 14:48:05  com.lenzhao.framework.server.RpcServerBootstrap.main(:79) INFO voyage server started 
+2017/03/01 14:49:31  com.lenzhao.service.impl.UserServiceImpl.New I/O worker #1(:18) INFO userName: lenzhao 登录成功! 
+2017/03/01 14:50:50  com.lenzhao.service.impl.UserServiceImpl.New I/O worker #2(:18) INFO userName: lenzhao 登录成功! 
+2017/03/01 14:54:44  com.lenzhao.service.impl.UserServiceImpl.New I/O worker #3(:18) INFO userName: lenzhao 登录成功! 
+2017/03/01 14:55:44  com.lenzhao.framework.server.ExtensionLoader.main(:39) INFO init root path: null 
+2017/03/01 14:55:44  com.lenzhao.framework.server.ExtensionLoader.main(:65) INFO begin scan jar from path: null 
+2017/03/01 14:55:44  com.lenzhao.framework.server.ExtensionLoader.main(:119) INFO finish scan jar 
+2017/03/01 14:55:44  com.lenzhao.framework.server.RpcServerBootstrap.main(:45) INFO initHttpBootstrap........... 
+2017/03/01 14:55:44  com.lenzhao.framework.server.RpcServerBootstrap.main(:79) INFO voyage server started 
+2017/03/01 14:55:52  com.lenzhao.service.impl.UserServiceImpl.New I/O worker #1(:18) INFO userName: lenzhao 登录成功! 
+2017/03/01 14:56:10  com.lenzhao.service.impl.UserServiceImpl.New I/O worker #2(:18) INFO userName: lenzhao 登录成功! 
+2017/03/01 14:58:15  com.lenzhao.service.impl.UserServiceImpl.New I/O worker #3(:18) INFO userName: lenzhao 登录成功! 
+2017/03/01 15:37:53  com.lenzhao.framework.server.ExtensionLoader.main(:39) INFO init root path: null 
+2017/03/01 15:37:53  com.lenzhao.framework.server.ExtensionLoader.main(:65) INFO begin scan jar from path: null 
+2017/03/01 15:37:53  com.lenzhao.framework.server.ExtensionLoader.main(:69) INFO java.class.path /usr/local/jdk1.7.0_75/jre/lib/javaws.jar:/usr/local/jdk1.7.0_75/jre/lib/charsets.jar:/usr/local/jdk1.7.0_75/jre/lib/management-agent.jar:/usr/local/jdk1.7.0_75/jre/lib/jfxrt.jar:/usr/local/jdk1.7.0_75/jre/lib/jfr.jar:/usr/local/jdk1.7.0_75/jre/lib/deploy.jar:/usr/local/jdk1.7.0_75/jre/lib/rt.jar:/usr/local/jdk1.7.0_75/jre/lib/plugin.jar:/usr/local/jdk1.7.0_75/jre/lib/resources.jar:/usr/local/jdk1.7.0_75/jre/lib/jsse.jar:/usr/local/jdk1.7.0_75/jre/lib/jce.jar:/usr/local/jdk1.7.0_75/jre/lib/ext/zipfs.jar:/usr/local/jdk1.7.0_75/jre/lib/ext/sunpkcs11.jar:/usr/local/jdk1.7.0_75/jre/lib/ext/dnsns.jar:/usr/local/jdk1.7.0_75/jre/lib/ext/localedata.jar:/usr/local/jdk1.7.0_75/jre/lib/ext/sunjce_provider.jar:/usr/local/jdk1.7.0_75/jre/lib/ext/sunec.jar:/home/lenzhao/IdeaProjects/VoyageServer/target/classes:/home/lenzhao/.m2/repository/com/lenzhao/voyage-framework/0.0.1/voyage-framework-0.0.1.jar:/home/lenzhao/.m2/repository/io/netty/netty/3.9.9.Final/netty-3.9.9.Final.jar:/home/lenzhao/.m2/repository/io/protostuff/protostuff-core/1.3.5/protostuff-core-1.3.5.jar:/home/lenzhao/.m2/repository/io/protostuff/protostuff-api/1.3.5/protostuff-api-1.3.5.jar:/home/lenzhao/.m2/repository/io/protostuff/protostuff-runtime/1.3.5/protostuff-runtime-1.3.5.jar:/home/lenzhao/.m2/repository/io/protostuff/protostuff-collectionschema/1.3.5/protostuff-collectionschema-1.3.5.jar:/home/lenzhao/.m2/repository/com/caucho/hessian/4.0.38/hessian-4.0.38.jar:/home/lenzhao/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar:/home/lenzhao/.m2/repository/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar:/home/lenzhao/.m2/repository/jaxen/jaxen/1.1.6/jaxen-1.1.6.jar:/home/lenzhao/.m2/repository/com/lenzhao/voyage-api/1.0-SNAPSHOT/voyage-api-1.0-SNAPSHOT.jar:/home/lenzhao/.m2/repository/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar:/home/lenzhao/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.7/jcl-over-slf4j-1.7.7.jar:/home/lenzhao/.m2/repository/org/slf4j/slf4j-log4j12/1.7.7/slf4j-log4j12-1.7.7.jar:/home/lenzhao/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/home/lenzhao/tools/idea-IU-139.659.2/lib/idea_rt.jar 
+2017/03/01 15:37:53  com.lenzhao.framework.server.ExtensionLoader.main(:120) INFO finish scan jar1 
+2017/03/01 15:37:53  com.lenzhao.framework.server.RpcServerBootstrap.main(:45) INFO initHttpBootstrap........... 
+2017/03/01 15:37:54  com.lenzhao.framework.server.RpcServerBootstrap.main(:79) INFO voyage server started 
